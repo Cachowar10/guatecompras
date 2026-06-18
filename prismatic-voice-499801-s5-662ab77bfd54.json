@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "prismatic-voice-499801-s5",
+  "private_key_id": "662ab77bfd540a530707555264abe02b6a748be5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC/rvGAWvVj55oc\n0Gn1QN8icxeQ2XanSUyGeqjbdZrSrd7zBe87yzocRslMCYwDfFhUL9TeCrjkYFP8\nL6xaS0LbwPKD01sIwjg/osDpyW7SupDw5vupkrPSdPsPGBBAAwUJbOgwz0l49FQr\nNIOOvDXDxQYRXUHnh1mmKwgH/WIpnOIAoxbDq+ozoWyJ/qgmeG9pYVXCkVyIxK41\n1i2/y1LpRRUD8Br20LgLfUtp0ZvEbBsSikLVEoi7lSgFHIbVb+ZK+HGYQx94DxIg\nuxZJQRBS1buZ6S5pJerLEFBoNWpLRUrJgHhxZfSXJy0fm0PPrONVd5ql/uNSpXHs\nEpnw+HChAgMBAAECggEAGAdet9fvLhRw8c7AkaGNtzxVRm+0W5kpMix7MXOnMmTg\nb3ede1HpGXVYM6N4vVEfo4IRfbo7XkmjDZiOUw1fNrwTyqm6njj2oyeMZmI9dcY0\neDaEcsf0qdvHQyehldyrC3jvDHtXuwVp7baaDVETrlRrA888fUEu4FFBovrFDPEp\npstHo3r++ZpKowXkuKccjPwjzFI36K/3vIqnaYBxJZl3tU8eqkJW211lISDF2SFU\n0XSxtijxiKD1OrHfu58CHP2MnGjWh7yX12S98+8p22b3hGLelH9cEhGEAekmLoA7\nYD2eCMx58tGvavT1a031Y3NGJhUsuDmQdY/78Bsj6QKBgQDjcFVQ8O8cTxA1MVjO\nmRJXLr1C4XLFutYQ7fVKrQEyUFKmX/jYOA5Q1ac2tsfD6N4STabC14JgufKtpNQ9\n2jNsHo1izSMLRN93AX4hgRlS1NL3k2hTSMbLQ1kz7p4+IZpHi5BFlOA15QlpQoEY\nu+91UgdeX+3olk6+jIgW+LM71QKBgQDXwSZzPU14AtjY04tbDe0Lfzgv2CkJSpwK\nh5L8psKg6mG2dQMePoiIx40OX3/5S8Yv8dJnNO5BWnFTm4fyzo9bbwDb+Mb2IKw2\n/OGFKLflTEC3LR1obarXYUamdNlmyWpjr1T6pnlZ0dVnHBTn7vFuR/ibVWchDQEw\nsn4MHtRDnQKBgB/1c/eYs3C952AiHAGD3uDjT3LrbQ49z8C3P0WMA+QHB2YbjEMN\ntW1EaGe2zWFJApN919X/JHHlDyW5SJ2cYKdrr6BXhPobZm85hXi9xEowX6isTPeO\n/WgogYtbl17Rp/Uvtkkgv1SzZ1wkHTHVjrNkoGZxgmOxY0VBSAo6Ti01AoGAZu5N\nC7l5VgH1tivmVgBk0JFXGuxDV51yqEtZwpNEU0S+bS+R10H6HVcmYm8JPMP7vy/d\nM0O7Tw549mxDBYGqPvLMNCWRtiaMQoeOh9qPMSOZ1En/t6xqTuqnrA4fEbyRtxEU\nt6foSQOkjdaF2sjSAczwPBsYYloz8SmWnO2wUrkCgYAbxOkGvSFna4zQCLTHH9uB\nps3VYx8whuduNT66mq3StC7SP3KCoa8zH5NHfvov+tj7yZ29DkLbafeL3WHGWsg3\nQkikGUrA0YS/NTPZbyVEm9jz50TvLRNC/kG+OAkoYLklmGuMFkVtUjdmr9C3lNpC\neXNyRxYnaZMN5ReeY69rhQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "guatecompras-bot@prismatic-voice-499801-s5.iam.gserviceaccount.com",
+  "client_id": "105510924782328556971",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/guatecompras-bot%40prismatic-voice-499801-s5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,6 @@
+{
+  "deploy": {
+    "startCommand": "python guatecompras_to_sheets.py",
+    "cronSchedule": "0 6 * * *"
+  }
+}
