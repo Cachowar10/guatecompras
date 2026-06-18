@@ -70,7 +70,7 @@ def descargar_csv_mes() -> pd.DataFrame | None:
             return None
         
         log.info(f"Usando archivo: {archivo_items}")
-        df = pd.read_csv(z.open(archivo_items), low_memory=False)
+        df = pd.read_csv(z.open(archivo_items), low_memory=False, encoding='latin-1')
         log.info(f"Total filas: {len(df)}, Columnas: {list(df.columns[:8])}")
         return df
         
